@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment 
 
+i am modifying the file and making chanes in the master  there is diff exist in the branch file
+
 ## How to contribute
 please note we branch out we make some change in the branch , and then switch back to the master
 and making some changes in the master , and then try to merge lets see what happens 

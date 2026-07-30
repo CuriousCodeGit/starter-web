@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    nitin   nitin@india.com  @indiancountry
+	
 
 # THANKS
 
