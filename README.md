@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 adding more informaton in the file for the rebasing perpose 
 
+after rebasing i am adding more information in the myfeature branch
 ## Purpose
 
 Sample website with plenty of files for demos
