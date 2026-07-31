@@ -2,11 +2,11 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	nitin solution architect cpp
 
 # THANKS
 
-    <name>
+    all my students 
 
 # TECHNOLOGY COLOPHON
 
